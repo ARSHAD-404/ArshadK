@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python
 #coding=utf-8
 #The Credit For This Code Goes To ARSHAD-KING
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
